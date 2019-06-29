@@ -5,12 +5,10 @@ Rita Best & Company
 	* How did you all meet?
 	* How long have you been meeting for?
 
----
 
 ## Individuals introduce themselves 
 4 Persons :) 
 
----
 
 ## Questions
 
