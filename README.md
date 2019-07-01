@@ -25,9 +25,9 @@ Do you have a format is it more free flowing?
 	* alternating
 
 2. What tools does your group use for collaboration?
-	* Slack Group
+	* Slack Chanel
 	* Google Hangout
-	* Git Hub Group 
+	* GitHub Organisation 
 	* VS Code - Live Share
 
 3. Do you have guests?
