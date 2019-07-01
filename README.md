@@ -7,7 +7,7 @@ Rita Best & Company
     * How did you all meet?
     * How long have you been meeting for?
 
-## Individuals introduce themselves
+## Individuals Introduce Themselves
 
 4 Persons :)
 
