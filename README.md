@@ -51,24 +51,41 @@ Do you have a format is it more free flowing?
 
 5. Do you have goals as a group?
 	* Both - individual goals:
-	* 	enable everyone of us to reach or personal goals 
+	* enable everyone of us to reach or personal goals
+
 	* The Big picture: 
-	* and create the safe space to learn with confidence and support 
-	* (Comparing Learning Group Format vs. Meetup Format – 
-	small learning group create a intimacy that helps learning next to 
-	each other while helping to be brave admitting to have gaps
+	* creating a safe space to learn with confidence and support 
+	* small learning group creates a intimacy that 
+		* helps learning next to each other while 
+		* helping to be brave admitting to have gaps
+
 
 6. How has being part of this group helped?
+	* It helped us to keep up with learning
+	* stop procrastination
+	* Accountability – 
+	* Continuity in learning - every sunday we meet
+	* Achieve more together than we would on our own
+		* by learning together
+		* by teaching the others
+		* by supporting each other
+		* by challenging each other without making the members feel uncomfortable
+		* by adding all the different perspectives to problem solving
+
+
 7. Has being part of this group affected your coding and your life?
 personal thought/opinions (2 sentences)
 
-*Examples:*
-	* Accontability
-	* Motivation 
-	* Fun :)
-	* (e.g. knowledge, confidence, friendship) – 
+- personal answear on each participant
+
 
 8. What do you love to give to the group as individuals?
+	* Apart from code we try to support each other
+	* Keep each other informed by posting links in Slack
+	* Share experience from confrerences
+	* or from streaming videos we watched (from conferences)
+	
+	* support, help, participate, 
 
 
 ### Closing Remarks
@@ -76,6 +93,8 @@ personal thought/opinions (2 sentences)
 9. What to be aware of when you are committing yourself to a learning group
 	* Get your support group on board (work, family, friends)
 	* Without their support it will not be possible
+	(* Find a timeframe everybody can be part of it)
+	
 
 ---
 
