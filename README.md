@@ -75,7 +75,7 @@ Rita Best & Company
 7. Has being part of this group affected your coding and your life?
    personal thought/opinions (2 sentences)
 
--   personal answer from each participant
+-   personal answer from each of the participants
 
 8. What do you love to give to the group as individuals?
 
