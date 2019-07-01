@@ -20,7 +20,7 @@ Rita Best & Company
 
 -   Free flow in the way of no strict schedule
 -   If somebody has an issue on learning or even on his everyday coding she/he can raise that any time and we try to help with that.
--   But when we are learning together for a course (react / gutenberg) we developed a routine / schedule base on the course structure
+-   But when we are learning together for a course (React / Gutenberg) we developed a routine / schedule base on the course structure
 -   Example: Advanced Gutenberg
     _ 2 Chapters Video for one week
     _ Practical coding on the second \* alternating
@@ -29,7 +29,7 @@ Rita Best & Company
 
     - Slack Channel
     - Google Hangout
-    - GitHub Organisation
+    - GitHub Organization
     - VS Code - Live Share
 
 3. Do you have guests?
@@ -65,7 +65,7 @@ Rita Best & Company
     - It helped us to keep up with learning
     - Stop procrastination
     - Accountability
-    - Continuity in learning - every sunday we meet
+    - Continuity in learning - every Sunday we meet
     - Achieve more together than we would on our own
       _ by learning together
       _ by teaching the others
@@ -100,7 +100,7 @@ Rita Best & Company
 
 10. What has been your biggest accomplishment as a group?
 
-11. What was your biggest takeaway from the hackathon the group participated in? And how did you organize the logistics of collaborating on projects in teams?
+11. What was your biggest takeaway from the Hackathon the group participated in? And how did you organize the logistics of collaborating on projects in teams?
 
 12. Do you think collaboration is a more successful way of tackling self-learning online?
 
