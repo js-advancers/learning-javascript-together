@@ -93,7 +93,7 @@ Rita, Fabian, Anja, Jess, Amber, Brezo, and Karan
     	- Keep each other informed share links, posts articles videos in Slack
     	- Share connections friends or people we know and experience from conferences
     	- videos, and other learning material that maybe helpful to the group or individul. 
-	  We share what we have watched. Or experienced (from conferences)
+	  We share whatever we think might be helpful to the group. Or may have experienced (from WordCamps and conferences)
     	- friendship, acceptance, support, motivation, 
 
 ### Closing Remarks
@@ -103,7 +103,7 @@ Rita, Fabian, Anja, Jess, Amber, Brezo, and Karan
 		- Without their support it will not be possible
 	- Find a timeframe everybody can be part of it
 	- Value yourself, your time and your commitment. And all these same things of your fellow participants.
-	  **Don't take people for granted.**
+	  *Don't take people for granted.*
 	- Leverage quality software, development tools, and services that a) makes it easy for everyone to participate, 	  connect and collaberate - weekly.
 	  b) Helps you learn, and get comfortable working with proffesional level workflows 
 	- Rotate the mediator position
