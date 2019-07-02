@@ -1,100 +1,98 @@
 # Learning JavaScript Together in a Study Group
+
 Rita Best & Company
 
-## Introduction 
-	* How did you all meet?
-	* How long have you been meeting for?
+## Introduction
 
+    * How did you all meet?
+    * How long have you been meeting for?
 
-## Individuals introduce themselves 
-4 Persons :) 
+## Individuals Introduce Themselves
 
+4 Persons :)
 
 ## Questions
 
 ### Learning Group Structure
-1. How do you organize your meetings: 
-Do you have a format is it more free flowing?
 
-* free flow in the way of no strict scedule
-* if somebody has an issue on learning or even on his everyday coding she/he can raise that any time and we try to help with that.
-* but when we are learning together for a course (react / gutenberg) we developed a routine / schedule base on the course structure
-* Example: Advanced Gutenberg 
-	* 2 Chapters Video for one week
-	* Practical coding on the second 
-	* alternating
+1. How do you organize your meetings:
+   Do you have a format is it more free flowing?
+
+-   Free flow in the way of no strict schedule
+-   If somebody has an issue on learning or even on his everyday coding she/he can raise that any time and we try to help with that.
+-   But when we are learning together for a course (React / Gutenberg) we developed a routine / schedule base on the course structure
+-   Example: Advanced Gutenberg
+    _ 2 Chapters Video for one week
+    _ Practical coding on the second \* alternating
 
 2. What tools does your group use for collaboration?
-	* Slack Channel
-	* Google Hangout
-	* GitHub Organisation 
-	* VS Code - Live Share
+
+    - Slack Channel
+    - Google Hangout
+    - GitHub Organization
+    - VS Code - Live Share
 
 3. Do you have guests?
-	* When topics rise - also proactive if we find out about interesting topics - we ask people around us to help/explain the topic
+    - When topics arise - also proactive if we find out about interesting topics - we ask people around us to help/explain the topic
 
+4) Does your group have rules?
 
+    - No but we have best practice
+    - Weekly meetings
+    - Taking courses collectively
+    - To keep of the momentum and motivation to learn
 
-4. Does your group have rules?
-	* No but we have  best practise 
-	* weekly meetings
-	* taking courses collectively 
-	* to keep of the momentum and motivation to learn
-
-	* sort of like the ‚code of conduct‘ from WordPress Community
-	* value each other 
-	* safe space - you can be vulnerable (not knowing everything about coding)
+    - Sort of like the ‚code of conduct‘ from WordPress Community
+    - Value each other
+    - Safe space - you can be vulnerable (not knowing everything about coding)
 
 ---
 
 ### Goals and Benefits of learning groups
 
 5. Do you have goals as a group?
-	* Both - individual goals:
-	* enable everyone of us to reach or personal goals
 
-	* The Big picture: 
-	* creating a safe space to learn with confidence and support 
-	* small learning group creates a intimacy that 
-		* helps learning next to each other while 
-		* helping to be brave admitting to have gaps
+    - Both - individual goals:
+    - Enable everyone of us to reach or personal goals
 
+    - The Big picture:
+    - Creating a safe space to learn with confidence and support
+    - Small learning group creates a intimacy that
+      _ Helps learning next to each other while
+      _ Helping to be brave admitting to have gaps
 
-6. How has being part of this group helped?
-	* It helped us to keep up with learning
-	* stop procrastination
-	* Accountability – 
-	* Continuity in learning - every sunday we meet
-	* Achieve more together than we would on our own
-		* by learning together
-		* by teaching the others
-		* by supporting each other
-		* by challenging each other without making the members feel uncomfortable
-		* by adding all the different perspectives to problem solving
-
+6) How has being part of this group helped?
+    - It helped us to keep up with learning
+    - Stop procrastination
+    - Accountability
+    - Continuity in learning - every Sunday we meet
+    - Achieve more together than we would on our own
+      _ by learning together
+      _ by teaching the others
+      _ by supporting each other
+      _ by challenging each other without making the members feel uncomfortable \* - by adding all the different perspectives to problem solving
 
 7. Has being part of this group affected your coding and your life?
-personal thought/opinions (2 sentences)
+   personal thought/opinions (2 sentences)
 
-- personal answear on each participant
-
+-   Personal answer from each of the participants
 
 8. What do you love to give to the group as individuals?
-	* Apart from code we try to support each other
-	* Keep each other informed by posting links in Slack
-	* Share experience from confrerences
-	* or from streaming videos we watched (from conferences)
-	
-	* support, help, participate, 
 
+    - Apart from code we try to support each other
+    - Keep each other informed by posting links in Slack
+    - Share experience from conferences
+    - or from streaming videos we watched (from conferences)
+
+    - Support, help, participate
 
 ### Closing Remarks
 
 9. What to be aware of when you are committing yourself to a learning group
-	* Get your support group on board (work, family, friends)
-	* Without their support it will not be possible
-	(* Find a timeframe everybody can be part of it)
-	
+
+    - Get your support group on board (work, family, friends)
+    - Without their support it will not be possible
+      (\* Find a timeframe everybody can be part of it)
 
 ---
 
@@ -102,9 +100,10 @@ personal thought/opinions (2 sentences)
 
 10. What has been your biggest accomplishment as a group?
 
-11. What was your biggest takeaway from the hackathon the group participated in? And how did you organize the logistics of collaborating on projects in teams?
+11. What was your biggest takeaway from the Hackathon the group participated in? And how did you organize the logistics of collaborating on projects in teams?
 
 12. Do you think collaboration is a more successful way of tackling self-learning online?
 
 ---
+
 13. What are the top 3 tips you would give others wanting to start a group like this?
