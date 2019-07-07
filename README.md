@@ -15,7 +15,7 @@ Rita Best & Company
 
 ### Learning Group Structure
 
-1. How do you organize your meetings: `Fabian`
+1. How do you organize your meetings: @fabiankaegy
 
    Do you have a format is it more free flowing?
 
