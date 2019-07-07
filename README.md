@@ -15,9 +15,7 @@ Rita Best & Company
 
 ### Learning Group Structure
 
-1. How do you organize your meetings: `Fabian`
-
-   Do you have a format is it more free flowing?
+1. How do you organize your meetings: Do you have a format is it more free flowing? `Fabian`
 
 -   Free flow in the way of no strict schedule
 -   If somebody has an issue on learning or even on his everyday coding she/he can raise that any time and we try to help with that.
@@ -46,7 +44,7 @@ Rita Best & Company
     - Safe space - you can be vulnerable (not knowing everything about coding)
 
 
-3. Do you have guests? `Rita`
+4. Do you have guests? `Rita`
     - When topics arise - also proactive if we find out about interesting topics - we ask people around us to help/explain the topic
 ---
 
