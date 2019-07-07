@@ -15,7 +15,7 @@ Rita Best & Company
 
 ### Learning Group Structure
 
-1. How do you organize your meetings:
+1. How do you organize your meetings: **Fabian**
    Do you have a format is it more free flowing?
 
 -   Free flow in the way of no strict schedule
@@ -25,17 +25,15 @@ Rita Best & Company
     _ 2 Chapters Video for one week
     _ Practical coding on the second \* alternating
 
-2. What tools does your group use for collaboration?
+2. What tools does your group use for collaboration? **Anja**
 
     - Slack Channel
     - Google Hangout
     - GitHub Organization
     - VS Code - Live Share
 
-3. Do you have guests?
-    - When topics arise - also proactive if we find out about interesting topics - we ask people around us to help/explain the topic
 
-4) Does your group have rules?
+3) Does your group have rules? **Jess**
 
     - No but we have best practice
     - Weekly meetings
@@ -46,6 +44,9 @@ Rita Best & Company
     - Value each other
     - Safe space - you can be vulnerable (not knowing everything about coding)
 
+
+3. Do you have guests? **Rita**
+    - When topics arise - also proactive if we find out about interesting topics - we ask people around us to help/explain the topic
 ---
 
 ### Goals and Benefits of learning groups
