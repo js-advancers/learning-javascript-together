@@ -60,6 +60,9 @@ Rita Best & Company
     - Small learning group creates a intimacy that
       _ Helps learning next to each other while
       _ Helping to be brave admitting to have gaps
+     
+    - Our biggest accomplishment as a group has been participating in teams in the Hackathon that Zac planned for participants of the JS Bootcamp. Six of us paired up in twos and each created Single Page Apps using the WordPress API and custom Gutenberg blocks. 
+    - Collaborating on these larger projects strengthened our bond as a group, deepened our skills and influenced the way the whole group collaborates in the study group using github. 
 
 6) How has being part of this group helped?
     - It helped us to keep up with learning
