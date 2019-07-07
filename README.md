@@ -50,7 +50,7 @@ Rita Best & Company
 
 ### Goals and Benefits of learning groups
 
-5. Do you have goals as a group?
+5. Do you have goals as a group? `simmilar to 6` `maybe doing two rounds`
 
     - Both - individual goals:
     - Enable everyone of us to reach or personal goals
