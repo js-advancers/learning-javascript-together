@@ -9,7 +9,7 @@ Rita Best & Company
 
 ## Individuals Introduce Themselves
 
-4 Persons :)
+4 Persons :) Everyone has to share a hobby / fun fact :)
 
 ## Questions
 
